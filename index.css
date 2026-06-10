@@ -1,0 +1,177 @@
+#back-border {
+  width: 1920px;
+  height: 4930px;
+  display: flex;
+  background-size: cover;
+  flex-direction: column;
+  gap: 3px;
+}
+#hero-container {
+  width: 1920px;
+  height: 64px;
+  border: 0px;
+  padding-top: 8px;
+  background-color: #f5f5f7cc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  font-size: 14px;
+}
+#body-paints {
+  width: 1920px;
+  height: 60px;
+  border: 0px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  gap: 4px;
+  font-size: 9px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#Icon {
+  width: 1920px;
+  height: 692px;
+  display: flex;
+  background-image: url(./Background2.png);
+  background-size: cover;
+  flex-wrap: wrap;
+}
+#text-container {
+  border: 0px;
+  width: 405px;
+  height: 200px;
+  display: flex;
+  background-size: cover;
+  position: relative;
+  top: 25px;
+  left: 757px;
+  right: 758px;
+  color: #f5f5f7;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+#ip16 {
+  font-size: 52px;
+  font-family: "inter";
+  position: relative;
+  margin: 0px;
+}
+#apple {
+  font-size: 12px;
+  font-family: "inter";
+  position: relative;
+  margin: 0px;
+  padding: 0px;
+}
+#buttons {
+    position: absolute;
+    display: flex;
+    gap: 16px;
+    flex-direction: row;
+    bottom: 0px;
+    width: 207px;
+    height: 40px;
+}
+.Learn {
+  border: #0071E3 solid;
+    width: 123px;
+    height: 44px;
+    border-radius: 999px;
+    cursor: pointer;
+}
+#Icon2 {
+  width: 1920px;
+  height: 692px;
+  display: flex;
+  background-size: cover;
+}
+#text-box {
+  border: 0px;
+  width: 405px;
+  height: 172px;
+  display: flex;
+  background-size: cover;
+  position: relative;
+  top: 55px;
+  left: 757px;
+  right: 758px;
+  color: red;
+  font-size: 10px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+
+#Icon3 {
+  width: 1920px;
+  height: 692px;
+  display: flex;
+  background-size: cover;
+}
+#icon-container {
+  width: 1920px;
+  height: 1764px;
+  display: flex;
+  background-size: cover;
+  flex-wrap: wrap;
+}
+#box-container {
+  display: flex;
+  gap: 4px;
+  flex-wrap: wrap;
+}
+#icon4 {
+  width: 942px;
+  height: 580px;
+  display: flex;
+  background-size: cover;
+}
+#icon5 {
+  width: 942px;
+  height: 580px;
+  display: flex;
+  font-size: 30px;
+  color: #f5f5f7;
+  letter-spacing: -0.28px;
+  flex-direction: column;
+}
+#learn-it {
+  width: 110px;
+  height: 44px;
+  border: 0px;
+  border-radius: 999px;
+  background-color: #ffff;
+  display: flex;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+}
+#icon6 {
+  width: 942px;
+  height: 580px;
+  display: flex;
+  background-size: cover;
+}
+#icon7 {
+  width: 942px;
+  height: 580px;
+  display: flex;
+  background-size: cover;
+}
+#icon8 {
+  width: 942px;
+  height: 580px;
+  display: flex;
+  background-size: cover;
+}
+#icon9 {
+  width: 942px;
+  height: 580px;
+  display: flex;
+  background-size: cover;
+}
