@@ -1,0 +1,27 @@
+* {
+  position: relative;
+  margin: 0px;
+  padding: 0px;
+}
+#back-border{
+width: 768;
+height: 4274;
+opacity: 1;
+gap: 12px;
+}
+/* HEADER */
+header {
+  position: fixed;
+  width: 768px;
+  height: 48px;
+  background-color: #f5f5f7ea;
+  border-radius: 2px solid;
+  gap: 24px;
+  display: flex;
+  flex-direction: row;
+  z-index: 5;
+  justify-content: center;
+  align-items: center;
+  padding-left: 10px;
+  border: 0px;
+}

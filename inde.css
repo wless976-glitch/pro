@@ -33,13 +33,13 @@ header {
 #logo {
   width: 12.97px;
   height: 15.93px;
-  background-image: url(./pictures/logo.png);
+  background-image: url(./apple\ logo.png);
   background-size: cover;
 }
 #menu {
   width: 18px;
   height: 18px;
-  background-image: url(./pictures/menu.png);
+  background-image: url(./Item.png);
   background-size: cover;
   display: none;
 }
@@ -52,13 +52,13 @@ header {
 #search {
   width: 14.08px;
   height: 14.08px;
-  background-image: url(./pictures/search.png);
+  background-image: url(./search.png);
   background-size: cover;
 }
 #shop {
   width: 12.94px;
   height: 14.91px;
-  background-image: url(./pictures/shop.png);
+  background-image: url(./Vector.png);
   background-size: cover;
 }
 /* HEADER END */
@@ -191,12 +191,13 @@ header {
   height: 692px;
 }
 #mainpicture {
-  background-image: url(./pictures/iphone16pro.jpg);
+  background-image: url(./Background2.png);
   background-position: center;
   background-repeat: no-repeat;
+  background-size: cover;
 }
 #mainpicture2 {
-  background-image: url(./pictures/iphone16.png);
+  background-image: url(./Figure.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -227,7 +228,7 @@ header {
   font-weight: 300;
 }
 #mainpicture3 {
-  background-image: url(./pictures/Gift.png);
+  background-image: url(./Figure2.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -339,7 +340,7 @@ header {
   width: 167px;
 }
 #ipad {
-  background-image: url(./pictures/ipadairbg.png);
+  background-image: url(./IPAD.png);
 }
 #ipadair {
   top: 58px;
@@ -372,7 +373,7 @@ header {
   -webkit-text-fill-color: transparent;
 }
 #airpod {
-  background-image: url(./pictures/airpod.png);
+  background-image: url(./air\ pods.png);
   position: relative;
 }
 
@@ -448,7 +449,7 @@ header {
 }
 
 #watch {
-  background-image: url(./pictures/iwatch.png);
+  background-image: url(./i\ watch.png);
 }
 .title-btn-holder#watch-title {
   display: block;
@@ -484,7 +485,7 @@ header {
   line-height: 25px;
 }
 #macbook {
-  background-image: url(./pictures/macbookair.png);
+  background-image: url(./macbook.png);
 }
 #space {
   width: 322px;
@@ -497,10 +498,10 @@ header {
   display: none;
 }
 #trade {
-  background-image: url(./pictures/tradein.png);
+  background-image: url(./trade\ in.png);
 }
 #card {
-  background-image: url(./pictures/card.png);
+  background-image: url(./card.png);
 }
 .buy-btn#apply-now {
   width: 112px;
@@ -575,17 +576,17 @@ header {
   font-weight: 400;
 }
 #left {
-  background-image: url(./pictures/mer.png);
+  background-image: url(./disclaimer.jpg);
   background-size: cover;
 }
 #middle {
-  background-image: url(./pictures/fly.png);
+  background-image: url(./fly.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 #right {
-  background-image: url(./pictures/sh.png);
+  background-image: url(./shirinking.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -635,7 +636,7 @@ header {
   height: 236px;
 }
 #neg {
-  background-image: url(./pictures/1st.jpg);
+  background-image: url(./fitness.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -664,11 +665,12 @@ header {
 .footer-logo {
   width: 78px;
   height: 14px;
-  background-image: url(./pictures/fitness.png);
+  background-image: url(.);
   background-size: cover;
 }
 
 #hoyr {
+  background-image: url(./r&g.png);
   position: relative;
   background-color: #1b2632;
 }
@@ -679,7 +681,7 @@ header {
   width: 196px;
   height: 196px;
   background-size: cover;
-  background-image: url(./pictures/r&b.jpg);
+  background-image: url(./r&g.png);
 }
 .footer-title#rnb {
   position: absolute;
@@ -689,13 +691,13 @@ header {
 .footer-logo.music {
   width: 59px;
   height: 14px;
-  background-image: url(./pictures/music.png);
+  background-image: url(./2222.png);
   position: absolute;
   bottom: 23px;
   right: 15px;
 }
 #guraw {
-  background-image: url(./pictures/2k25.jpg);
+  background-image: url(./NBA.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -713,7 +715,7 @@ header {
   top: 182.95px;
 }
 #duruw {
-  background-image: url(./pictures/gym.jpg);
+  background-image: url(./yogo.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -725,105 +727,9 @@ header {
   top: 182.95px;
 }
 #taw {
+  background-image: url(./disc.png);
   background-color: #ebb799;
-}
-/* FOOTER */
-
-.foot-of-foot {
-  font-family: "inter", sans-serif;
-  font-size: 12px;
-  color: rgb(145, 145, 145);
-  width: 980px;
-}
-ol {
-  padding-left: 20px;
-  margin: 0;
-}
-
-li {
-  margin-bottom: 20px;
-  text-align: justify;
-}
-
-.foot-text {
-  margin: 15px 0 0 0;
-}
-.foot-text.foot-of-foot {
-  margin: 8px 0 0 0;
-}
-
-/* GRID secction */
-.site-footer {
-  width: 980px;
-  margin: 20px auto;
-  color: #1d1d1f;
-  font-size: 13px;
-}
-
-.footer-links-grid {
-  padding-top: 20px;
-  border-top: 1px solid #d2d2d7;
-  display: grid;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
-  gap: 20px;
-  padding-bottom: 40px;
-}
-
-.footer-column-section {
-  margin-bottom: 24px;
-  font-family: "inter", sans-serif;
-}
-
-.footer-column-section h3 {
-  font-size: 13px;
-  font-weight: 600;
-  margin: 0 0 10px 0;
-  color: #1d1d1f;
-}
-
-.footer-column-section ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-.footer-column-section ul li {
-  margin-bottom: 9px;
-}
-.footer-column-section ul li a {
-  color: #515154;
-}
-.footer-column-section ul li a:hover {
-  cursor: pointer;
-  text-decoration: underline;
-}
-/* Copyright section */
-.footer-bottom {
-  font-family: "inter", sans-serif;
-  font-size: 12px;
-  padding-top: 20px;
-  color: #6e6e73;
-  line-height: 1.5;
-}
-.footer-bottom a {
-  color: #0066cc;
-}
-.footer-bottom a:hover {
-  cursor: pointer;
-  text-decoration: underline;
-}
-.footer-line {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 15px;
-  padding-top: 15px;
-  border-top: 1px solid #d2d2d7;
-}
-.copyright-links a {
-  color: #515154;
-  margin-right: 10px;
-  padding-right: 10px;
-  border-right: 1px solid #d2d2d7;
-}
-.copyright-links a:last-child {
-  border-right: none;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
